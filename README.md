@@ -11,6 +11,6 @@
 |6 | | |
 |7 | | |
 |8 | | |
-|9 | | |
+|9 |Convolutional Network|[link](https://chlanstjr.github.io/2024/02/26/Deep-Learning-Chapter9-Convolutional-Networks/)|
 |10 | | |
 
