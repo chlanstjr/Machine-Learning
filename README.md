@@ -7,7 +7,7 @@
 ## 1.2. Reference
 
 # 2. Deep Learning
-## Notebooks and Blogs
+## 2.1. Notebooks and Blogs
 |Index |Notebooks                                                                         |Blogs        |
 |----:|:---------------------------------------------------------------------------------|-----------:|
 |1 |Introduction|[link](https://chlanstjr.github.io/2024/02/12/Deep-Learning-Chaper1-Introduction/)|
@@ -23,9 +23,9 @@
 ## 2.2. Reference
 
 # 3. XAI
-## Notebooks and Blogs
+## 3.1. Notebooks and Blogs
 |Index |Notebooks                                                                         |Blogs        |
 |----:|:---------------------------------------------------------------------------------|-----------:|
 |1 |||
 |2 | | |
-## 1.3. Reference
+## 3.2. Reference
